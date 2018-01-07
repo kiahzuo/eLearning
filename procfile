@@ -1,2 +1,2 @@
-web: gunicorn <module>:<app>
+web: gunicorn flask101>:app
 
